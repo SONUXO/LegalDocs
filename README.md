@@ -32,7 +32,7 @@ BM25withEventExtraction/
 
 ## Results
 1. F1,RECALL AND PRECISION:
-<img src="images/image1.png" alt="fw" width="500" height="500">
+<img src="BM25withEventExtraction/images/image2.png" alt="fw" width="500" height="500">
 
-2. Top 10 cases:
-<img src="images/image2.png" alt="Demo Screenshot" width="500" height="500">
+2. Top 10 cases with scores:
+<img src="BM25withEventExtraction/images/image1.png" alt="Demo Screenshot" width="500" height="500">
